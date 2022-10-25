@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Munteanu-Tudor
-- 👀 I’m interested in learning new stuff but I'm passionate of .NET, Data, Python and Java.
-- 🌱 I’m currently learning mobile and more about Data due to my current job
-- 💞️ I’m looking to collaborate on challanging projects in diverse domain because I'm willing to know more
+- 👋 My name is Munteanu-Tudor and I'm currently a computer-science student at UBB Cluj-Napoca. I am working as a Data Enginner at Betfair, part of the Flutter group.
+- 👀 I’m interested in learning new stuff but I'm passionate of .NET, Javascript, Data, Python and Java.
+- 🌱 For now, I'm focusing on learning full-stack stuff cloud, rpa, mobile and Data also, due to my current job.
+- 💞️ I’m looking forward to collaborate on challanging projects in diverse domain because I'm willing to know more.
 
 <!---
 915-Munteanu-Tudor/915-Munteanu-Tudor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
