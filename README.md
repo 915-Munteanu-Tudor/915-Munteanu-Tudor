@@ -1,4 +1,4 @@
-- 👋 My name is Munteanu-Tudor and I'm currently a computer-science student. I am a former Data Enginner at the Flutter group for the UK&I department.
+- 👋 My name is Munteanu-Tudor and I'm currently a computer-science student. I am a .NET full-stack developer and I also am a former Data Enginner.
 - 👀 I’m interested in learning new stuff but I'm also passionate of .NET, Javascript, Data, Python and Java.
 - 🌱 For now, I'm focusing on learning full-stack stuff, cloud, rpa and mobile.
 - 💞️ I’m looking forward to collaborate on challanging projects in diverse domain because I'm willing to know more.
